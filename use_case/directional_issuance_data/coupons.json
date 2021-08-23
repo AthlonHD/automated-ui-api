@@ -1,0 +1,231 @@
+{
+  "activityappender": 1,
+  "isCouponPack": {
+    "id": 0,
+    "name": "否"
+  },
+  "isPublish": false,
+  "isAdd": true,
+  "isDetail": false,
+  "featureId": 2,
+  "publisher_mall": {
+    "id": 88,
+    "name": "测试专用商场"
+  },
+  "isHidePublisher": false,
+  "publisher": {
+    "id": 2,
+    "name": "商业"
+  },
+  "publisher_shop": "",
+  "sceneList": {
+    "scenes": [
+      {
+        "id": 1,
+        "name": "营销日",
+        "hasDropdownlist": true,
+        "dropdownlist": [
+          {
+            "id": 21,
+            "name": "暑假"
+          }
+        ]
+      }
+    ]
+  },
+  "name": "定向发单张券（测试专用领取无效）",
+  "eventTime": {
+    "start": "2021-07-01 00:00",
+    "end": "2022-08-31 23:59"
+  },
+  "activityTotalBudget": "1000",
+  "targetCustomer": [
+    {
+      "id": 1,
+      "name": "学生"
+    }
+  ],
+  "coupon": [
+    {
+      "effectDate": 0,
+      "effectDuration": "5",
+      "availableDay": [
+        {
+          "id": 1,
+          "name": "周一"
+        },
+        {
+          "id": 2,
+          "name": "周二"
+        },
+        {
+          "id": 3,
+          "name": "周三"
+        },
+        {
+          "id": 4,
+          "name": "周四"
+        },
+        {
+          "id": 5,
+          "name": "周五"
+        }
+      ],
+      "spendChannel": {
+        "id": 2,
+        "name": "商户助手&PC核销平台"
+      },
+      "featureId": 2,
+      "publisher": {
+        "id": 2,
+        "name": "商业"
+      },
+      "publisher_shop": "",
+      "publisher_mall": {
+        "id": 88,
+        "name": "测试专用商场"
+      },
+      "isHidePublisher": false,
+      "eventTime": {
+        "start": "2021-07-01 00:00",
+        "end": "2022-08-31 23:59"
+      },
+      "coupon": {
+        "id": 88234,
+        "codeNo": "CP202912624313",
+        "name": "商业代金券领取2天有用持续1天",
+        "sortNumber": 0,
+        "valid": true,
+        "createTime": "2020-09-04 10:29:24",
+        "couponGroup": "",
+        "type": {
+          "id": 2,
+          "name": "代金券"
+        },
+        "stockType": "",
+        "auditStatus": 2,
+        "refuseReason": "",
+        "shopLimit": "",
+        "shopList": "",
+        "mallList": [
+          {
+            "codeNo": "ESITE",
+            "id": 88,
+            "name": "测试专用商场"
+          }
+        ],
+        "shop": "",
+        "publisher": {
+          "id": 2,
+          "name": "商业"
+        },
+        "publisher_shop": "",
+        "publisher_mall": {
+          "logo": "https://image30uat.capitaland.com.cn/upload/image/20200827/571406593651827.jpg",
+          "mall": "",
+          "codeNo": "ESITE",
+          "id": 88,
+          "name": "测试专用商场"
+        },
+        "effectType": {
+          "id": 2,
+          "name": "领取后"
+        },
+        "effectDate": "2",
+        "effectDuration": "1",
+        "duration": "",
+        "expired": false,
+        "totalCount": "30000",
+        "stockCount": "29872",
+        "distributeCount": "",
+        "totalSpend": 2,
+        "totalReward": 14,
+        "isMemberTotalLimit": false,
+        "memberTotalLimit": "",
+        "isMemberDailyLimit": false,
+        "memberDailyLimit": "",
+        "dailyCount": 0,
+        "totalNum": 30000,
+        "dayNum": 0,
+        "userCount": 0,
+        "userDayCount": 0,
+        "spendChannel": {
+          "id": 2,
+          "name": "线下商场"
+        },
+        "condition": {
+          "id": 0,
+          "name": ""
+        },
+        "repeatMinSpending": "",
+        "minSpending": "",
+        "reduceMoney": 0,
+        "description": "",
+        "isSubsidy": {
+          "id": 2,
+          "name": "否"
+        },
+        "subsidyAmount": 0,
+        "applyType": "",
+        "isPay": false
+      },
+      "effectType": {
+        "id": 2,
+        "name": "领取后"
+      },
+      "availableDuration": {
+        "id": 2,
+        "name": "部分时段"
+      },
+      "totalNum": "5",
+      "dayNum": "5",
+      "userCount": "0",
+      "userDayCount": "0",
+      "verifyMallList": [
+        {
+          "logo": "https://image30uat.capitaland.com.cn/upload/image/20200827/571406593651827.jpg",
+          "mall": "",
+          "codeNo": "ESITE",
+          "id": 88,
+          "name": "测试专用商场"
+        }
+      ],
+      "verifyChannel": [
+        {
+          "id": 1,
+          "name": "商场服务台"
+        },
+        {
+          "id": 2,
+          "name": "商场租户"
+        }
+      ],
+      "mallShopType": {
+        "id": 1,
+        "name": "全部租户"
+      },
+      "verifyChannel1": [
+        {
+          "id": 1,
+          "name": "商场服务台"
+        },
+        {
+          "id": 2,
+          "name": "商场租户"
+        }
+      ],
+      "mallShopType1": {
+        "id": 1,
+        "name": "全部租户"
+      }
+    }
+  ],
+  "mallList": {
+    "id": 88,
+    "name": "测试专用商场"
+  },
+  "isKDStoreCoupon": {
+    "id": 0,
+    "name": "否"
+  }
+}

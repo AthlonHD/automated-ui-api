@@ -1,0 +1,11 @@
+{
+  "activityId":"E075F4EB1606E98C",
+  "activityType":6,
+  "publisher":{"id":2,"name":"商业"},
+  "publisher_mall":{"id":88,"name":"测试专用商场"},
+  "publisher_shop":null,
+  "mallList":[{"id":88,"name":"测试专用商场"}],
+  "prizeName":"积分",
+  "prizeType":{"id":3,"name":"积分"},
+  "score":"5","total":"4","rate":"100000"
+}

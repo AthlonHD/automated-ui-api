@@ -1,0 +1,74 @@
+{
+  "activityappender": 1,
+  "promotionLinkType": {
+    "id": 2,
+    "name": "新闻资讯"
+  },
+  "isPublish": false,
+  "isAdd": true,
+  "isDetail": false,
+  "featureId": 2,
+  "publisher_mall": {
+    "id": 88,
+    "name": "测试专用商场"
+  },
+  "isHidePublisher": false,
+  "publisher": {
+    "id": 2,
+    "name": "商业"
+  },
+  "publisher_shop": "",
+  "promotionType": {
+    "id": 1,
+    "name": "为明天专用"
+  },
+  "sceneList": {
+    "scenes": [
+      {
+        "id": 1,
+        "name": "营销日",
+        "hasDropdownlist": true,
+        "dropdownlist": [
+          {
+            "id": 21,
+            "name": "暑假"
+          }
+        ]
+      }
+    ]
+  },
+  "name": "为明天新闻（测试专用领取无效）",
+  "eventTime": {
+    "start": "2021-07-01 00:00",
+    "end": "2022-08-31 23:59"
+  },
+  "activityTotalBudget": "5000",
+  "targetCustomer": [
+    {
+      "id": 3,
+      "name": "亲子"
+    },
+    {
+      "id": 1,
+      "name": "学生"
+    },
+    {
+      "id": 2,
+      "name": "上班族"
+    }
+  ],
+  "image": "https://image30uat.capitaland.com.cn//upload/image/20210702/562388123541549.png",
+  "linkType": {
+    "id": 2,
+    "name": "凯德集团官网新闻"
+  },
+  "linkPath": "https://www.capitaland.com.cn/",
+  "isShowPortal": true,
+  "isTop": true,
+  "mallList": [
+    {
+      "id": 88,
+      "name": "测试专用商场"
+    }
+  ]
+}

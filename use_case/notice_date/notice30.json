@@ -1,0 +1,67 @@
+{
+  "activityappender": 1,
+  "isPublish": false,
+  "isAdd": true,
+  "isDetail": false,
+  "featureId": 2,
+  "publisher_mall": {
+    "id": 88,
+    "name": "测试专用商场"
+  },
+  "isHidePublisher": false,
+  "publisher": {
+    "id": 2,
+    "name": "商业"
+  },
+  "publisher_shop": "",
+  "sceneList": {
+    "scenes": [
+      {
+        "id": 1,
+        "name": "营销日",
+        "hasDropdownlist": true,
+        "dropdownlist": [
+          {
+            "id": 21,
+            "name": "暑假"
+          }
+        ]
+      }
+    ]
+  },
+  "name": "公告3.0（测试专用领取无效）",
+  "eventTime": {
+    "start": "2021-07-01 00:00",
+    "end": "2022-08-31 23:59"
+  },
+  "activityWeek": {
+    "activityDate": {
+      "start": "2021-07-01 00:00",
+      "end": "2022-08-31 23:59"
+    }
+  },
+  "activityTotalBudget": "1000",
+  "targetCustomer": [
+    {
+      "id": 1,
+      "name": "学生"
+    }
+  ],
+  "promotionType": {
+    "id": 0,
+    "name": "公告"
+  },
+  "image": "https://image30uat.capitaland.com.cn//upload/image/20210702/487084874290141.jpg",
+  "info": "公告3.0（测试专用领取无效）的公告简介",
+  "introduce": {
+    "html": "<p>公告3.0（测试专用领取无效）的公告详情</p>",
+    "resource": ""
+  },
+  "isShowPortal": true,
+  "mallList": [
+    {
+      "id": 88,
+      "name": "测试专用商场"
+    }
+  ]
+}

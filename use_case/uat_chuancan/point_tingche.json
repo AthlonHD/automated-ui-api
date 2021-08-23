@@ -1,0 +1,174 @@
+{
+  "activityappender": 1,
+  "isShowPortal": {
+    "id": 1,
+    "name": "是"
+  },
+  "score": {
+    "id": 2,
+    "name": "消耗积分"
+  },
+  "isCouponPack": {
+    "id": 0,
+    "name": "否"
+  },
+  "isPublish": false,
+  "isAdd": true,
+  "isDetail": false,
+  "featureId": 1,
+  "isHidePublisher": false,
+  "publisher": {
+    "id": 1,
+    "name": "平台"
+  },
+  "publisher_shop": "",
+  "level": {
+    "id": 3,
+    "name": "二级"
+  },
+  "topic": {
+    "id": 71,
+    "eventTime": {
+      "start": "2021-04-01 00:00:00",
+      "end": "2021-07-31 23:59:59"
+    },
+    "name": "微笑",
+    "scenes": "营销日-立夏,618年中促销 "
+  },
+  "name": "1积分领停车券",
+  "eventTime": {
+    "start": "2021-06-18 00:00",
+    "end": "2021-07-31 23:59"
+  },
+  "activityTotalBudget": "1000",
+  "targetCustomer": [
+    {
+      "id": 3,
+      "name": "亲子"
+    }
+  ],
+  "image": [
+    "https://image30uat.capitaland.com.cn//upload/image/20210618/491536370248925.jpg"
+  ],
+  "info": "1积分领停车券",
+  "introduce": {
+    "html": "<h2>1积分领停车券</h2><p><br></p>",
+    "resource": ""
+  },
+  "mallList": [
+    {
+      "id": 88,
+      "name": "测试专用商场",
+      "logo": "https://image30uat.capitaland.com.cn/upload/image/20200827/571406593651827.jpg",
+      "isBindWx": true
+    }
+  ],
+  "coupon": [
+    {
+      "effectDate": 0,
+      "effectDuration": "1",
+      "verifyMall": {
+        "id": 1,
+        "name": "所有商场"
+      },
+      "featureId": 1,
+      "publisher": {
+        "id": 1,
+        "name": "平台"
+      },
+      "publisher_shop": "",
+      "isHidePublisher": false,
+      "eventTime": {
+        "start": "2021-06-18 00:00",
+        "end": "2021-07-31 23:59"
+      },
+      "coupon": {
+        "id": 251711,
+        "codeNo": "CP400147653281",
+        "name": "0507停车券可抵扣5元",
+        "sortNumber": 0,
+        "valid": true,
+        "createTime": "2021-05-07 15:33:40",
+        "couponGroup": "",
+        "type": {
+          "id": 6,
+          "name": "停车券"
+        },
+        "stockType": "",
+        "auditStatus": 2,
+        "refuseReason": "",
+        "shopLimit": "",
+        "shopList": "",
+        "mallList": [],
+        "shop": "",
+        "publisher": {
+          "id": 1,
+          "name": "平台"
+        },
+        "publisher_shop": "",
+        "publisher_mall": "",
+        "effectType": {
+          "id": 1,
+          "name": "固定日期"
+        },
+        "effectDate": "0",
+        "effectDuration": "0",
+        "duration": {
+          "start": "2021-05-07",
+          "end": "2022-05-06"
+        },
+        "expired": false,
+        "totalCount": "9000",
+        "stockCount": "8908",
+        "distributeCount": "",
+        "totalSpend": 55,
+        "totalReward": 70,
+        "isMemberTotalLimit": false,
+        "memberTotalLimit": "",
+        "isMemberDailyLimit": false,
+        "memberDailyLimit": "",
+        "dailyCount": 0,
+        "totalNum": 9000,
+        "dayNum": 0,
+        "userCount": 0,
+        "userDayCount": 0,
+        "spendChannel": {
+          "id": 2,
+          "name": "线下商场"
+        },
+        "condition": {
+          "id": 0,
+          "name": ""
+        },
+        "repeatMinSpending": "",
+        "minSpending": "",
+        "reduceMoney": 0,
+        "description": "",
+        "isSubsidy": {
+          "id": 2,
+          "name": "否"
+        },
+        "subsidyAmount": 0,
+        "applyType": "",
+        "isPay": false
+      },
+      "effectType": {
+        "id": 2,
+        "name": "领取后"
+      },
+      "availableDuration": {
+        "id": 1,
+        "name": "全部时段"
+      },
+      "totalNum": "15",
+      "dayNum": "15",
+      "userCount": "0",
+      "userDayCount": "0"
+    }
+  ],
+  "integral": "1",
+  "isKDStoreCoupon": {
+    "id": 0,
+    "name": "否"
+  }
+}

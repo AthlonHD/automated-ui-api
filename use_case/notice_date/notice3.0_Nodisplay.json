@@ -1,0 +1,23 @@
+{
+  "activityappender":1,
+  "promotionType":{"id":0,"name":"公告"},
+  "isPublish":false,
+  "isAdd":true,
+  "isDetail":false,
+  "featureId":2,
+  "publisher_mall":{"id":88,"name":"测试专用商场"},
+  "isHidePublisher":false,
+  "publisher":{"id":2,"name":"商业"},
+  "publisher_shop":null,"level":null,
+  "topic":null,"name":"活动公告不显示在前台（测试专用领取无效）",
+  "eventTime":{"start":"2021-07-01 00:00","end":"2022-03-31 23:59"},
+  "activityWeek":{"activityDate":{"start":"2021-07-01 00:00","end":"2022-03-31 23:59"}},
+  "sceneList":{"scenes":[{"id":6,"name":"其他","hasDropdownlist":false}]},
+  "activityTotalBudget":"100","targetCustomer":[{"id":1,"name":"学生"}],
+  "image":"https://image30uat.capitaland.com.cn//upload/image/20210707/506037744737374.jpg",
+  "info":"公告简介公告简介",
+  "introduce":{"html":"<p>公告详情公告详情公告详情公告详情<img src=\"https://image30uat.capitaland.com.cn//upload/image/20210707/467670198836833.jpg\"></p>",
+    "resource":null},
+  "isShowPortal":false,
+  "mallList":[{"id":88,"name":"测试专用商场"}]
+}

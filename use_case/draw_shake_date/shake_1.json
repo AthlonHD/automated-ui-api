@@ -1,0 +1,89 @@
+{
+  "activityappender": 1,
+  "isShowPortal": {
+    "id": 1,
+    "name": "是"
+  },
+  "activityType": {
+    "id": 6,
+    "name": "摇一摇活动"
+  },
+  "score": {
+    "id": 1,
+    "name": "免费"
+  },
+  "isPublish": false,
+  "isAdd": true,
+  "isDetail": false,
+  "featureId": 1,
+  "isHidePublisher": false,
+  "publisher": {
+    "id": 1,
+    "name": "平台"
+  },
+  "publisher_shop": "",
+  "sceneList": {
+    "scenes": [
+      {
+        "id": 6,
+        "name": "其他",
+        "hasDropdownlist": false
+      }
+    ]
+  },
+  "eventTime": {
+    "start": "2021-07-06 00:00",
+    "end": "2022-08-31 23:59"
+  },
+  "activityTotalBudget": "2000",
+  "targetCustomer": [
+    {
+      "id": 1,
+      "name": "学生"
+    }
+  ],
+  "image": "https://image30uat.capitaland.com.cn//upload/image/20210706/560419709127379.jpg",
+  "introduce": {
+    "html": "<p>抽奖次数无限制，可多次免费抽奖，奖池为空时可以继续抽奖，只有两个积分奖品</p>",
+    "resource": ""
+  },
+  "name": "摇一摇1（测试专用领取无效）",
+  "mallList": [
+    {
+      "id": 88,
+      "name": "测试专用商场",
+      "logo": "https://image30uat.capitaland.com.cn/upload/image/20200827/571406593651827.jpg",
+      "isBindWx": true
+    }
+  ],
+  "totalCountLimit": false,
+  "singleCountLimitTotal": false,
+  "singleCountLimitDaily": false,
+  "canMultipleAwards": true,
+  "canEmptyDraw": false,
+  "fields": [
+    {
+      "title": "第一场",
+      "eventTime": {
+        "start": "2021-07-06 00:00",
+        "end": "2021-12-31 23:59"
+      }
+    }
+  ],
+  "prize": [
+    {
+      "prizeName": "奖品是积分",
+      "prizeType": {
+        "id": 3,
+        "name": "积分"
+      },
+      "score": "5",
+      "total": "2",
+      "rate": "10000"
+    }
+  ],
+  "isKDStoreCoupon": {
+    "id": 0,
+    "name": "否"
+  }
+}
